@@ -49,8 +49,8 @@ MIDI ファイルの解析により楽曲で実際に使われる音を考慮し
 - pretty_midi
 - soundfile (PySoundFile)
 - music21
-- tkinter（標準ライブラリ。ただし OS により別途インストールが必要な場合あり）
-- pypandoc（`tuner.py` 内で使用、必須ではないがあると便利）
+- tkinter
+- pypandoc
 
 インストール例（venv 作成後）:
 ```bash
