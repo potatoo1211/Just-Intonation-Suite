@@ -138,7 +138,7 @@ python tuner.py
 
 MIT License
 
-Copyright (c) [YEAR] [AUTHOR]
+Copyright (c) 2026 potatoo1211
 
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 
