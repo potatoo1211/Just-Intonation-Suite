@@ -143,9 +143,3 @@ Copyright (c) 2026 potatoo1211
 Permission is hereby granted, free of charge, to any person obtaining a copy...
 
 ---
-
-## 作者 / 連絡先
-- GitHub: [potatoo1211](https://github.com/potatoo1211)
-- メール: ikada.8383@gmail.com
-
----
